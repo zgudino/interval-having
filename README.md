@@ -44,7 +44,7 @@ bool areOpposite(float fnXi, float fnXm) {
 ```
 
 ##Licencia
----
+
 The MIT License
 
 Copyright (c) 2015 Zahir Gudiño
