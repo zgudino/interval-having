@@ -6,7 +6,7 @@ seleccionando el subintervalo que tiene la raíz.
 ####Funciones
 
 La función `solveEquation` resuelve la ecuación y devuelve su resultado.
-```
+```c++
 /**
  *  Ecuacion matematica a resolver
  *
@@ -24,7 +24,7 @@ float solveEquation(float a) {
 ```
 
 La función `areOpposite` evalúa si los signos son opuestos.
-```
+```c++
 /**
  *  Determina si el intervalo ha cambiado de signo
  *
